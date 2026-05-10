@@ -1,14 +1,13 @@
 # 👋 Hi, I'm Mahmoud Abo Gamihe
 
-🚀 Flutter Developer | Clean Architecture Enthusiast | Problem Solver
+🚀 Flutter Developer | Clean Architecture Enthusiast | Mobile App Engineer
 
 ---
 
 ## 🧠 About Me
-- 💙 Flutter Developer passionate about building scalable mobile applications
-- 🏗️ Experienced with Clean Architecture & Bloc state management
-- 🔌 Enjoy integrating REST APIs and building real-world applications
-- 🎯 My goal is to build high-quality, maintainable, and scalable apps
+I am a Flutter Developer passionate about building scalable, maintainable, and real-world mobile applications.
+
+I focus on writing clean, modular code using best practices like Clean Architecture and Bloc state management.
 
 ---
 
@@ -17,24 +16,37 @@
 - Bloc / Cubit
 - Clean Architecture
 - REST APIs (Dio / HTTP)
-- Firebase (Authentication, Firestore)
+- Firebase (Auth, Firestore)
 - Git & GitHub
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🎬 Movies App
-A Flutter application built using Clean Architecture + Bloc + API integration  
-✔️ Browse trending movies  
-✔️ Movie details screen  
-✔️ Favorites system  
+A clean architecture Flutter application for browsing movies using API integration.
+
+✔ Browse trending movies  
+✔ Movie details screen  
+✔ Favorites system  
+✔ Built with Bloc + Clean Architecture  
+
+---
 
 ### 📊 ShiftWatch App
-An attendance tracking system built with Flutter  
-✔️ Employee tracking  
-✔️ Real-time updates  
-✔️ Clean and scalable architecture  
+Attendance tracking mobile system built with Flutter.
+
+✔ Employee attendance tracking  
+✔ Real-time updates  
+✔ Structured scalable architecture  
+
+---
+
+## 📌 What I Focus On
+- Clean & scalable architecture
+- Real-world production-ready apps
+- API integration
+- State management with Bloc
 
 ---
 
