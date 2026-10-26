@@ -1,60 +1,70 @@
 # 👋 Hi, I'm Mahmoud Abo Gamihe
+### Flutter Developer | Artificial Intelligence Graduate | Mobile App Engineer
 
-🚀 Flutter Developer | Clean Architecture Enthusiast | Mobile App Engineer
+<p align="left">
+  <a href="https://www.linkedin.com/in/mahmoud-abogamihe/"><img src="https://shields.io" alt="LinkedIn" /></a>
+  <a href="mailto:mahmoudabogama83@gmail.com"><img src="https://shields.io" alt="Email" /></a>
+</p>
 
 ---
 
 ## 🧠 About Me
-I am a Flutter Developer passionate about building scalable, maintainable, and real-world mobile applications.
+I am a detail-oriented **Artificial Intelligence graduate** and **Flutter Developer** passionate about building smart, scalable, and high-performance cross-platform mobile applications. 
 
-I focus on writing clean, modular code using best practices like Clean Architecture and Bloc state management.
+I bridge the gap between intelligent systems and mobile engineering by implementing clean design patterns, modular codebases, and robust architectures.
 
 ---
 
-## 🛠️ Tech Stack
-- Flutter & Dart
-- Bloc / Cubit
-- Clean Architecture
-- REST APIs (Dio / HTTP)
-- Firebase (Auth, Firestore)
-- Git & GitHub
+## 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Mobile Development** | ![Flutter](https://shields.io) ![Dart](https://shields.io) Responsive UI |
+| **State Management** | BLoC, Cubit, Provider |
+| **Architecture** | Clean Architecture, MVVM basics, SOLID Principles, OOP |
+| **Backend & Integration** | REST APIs, Dio, JSON, Token Authentication |
+| **Cloud & Storage** | ![Firebase](https://shields.io) Hive, SQLite, Shared Preferences |
+| **Tools & Testing** | Git, GitHub, Postman, VS Code, Android Studio, Unit Testing |
+| **AI Foundations** | Machine Learning & Deep Learning Fundamentals, Python (Basic) |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 Movies App
-A clean architecture Flutter application for browsing movies using API integration.
+### 📊 ShiftWatch — AI-Integrated Employee Management (Graduation Project)
+A comprehensive workplace monitoring and attendance tracking ecosystem.
+* 🛠️ **Built with:** Flutter, Clean Architecture, BLoC, and REST APIs.
+* ✔️ Led mobile client development and structured dynamic shift-scheduling sub-systems.
+* ✔️ Integrated complex RESTful APIs for real-time secure data synchronization.
 
-✔ Browse trending movies  
-✔ Movie details screen  
-✔ Favorites system  
-✔ Built with Bloc + Clean Architecture  
+### 🎬 CineVerse — Movie Discovery Application
+A feature-rich entertainment tracking app with end-to-end clean data flows.
+* 🛠️ **Built with:** Flutter, TMDB REST API, Dio, BLoC, Firebase Auth, and Hive.
+* ✔️ Implemented custom searches, dynamic filtering, and secure user authentication workflows.
+* ✔️ Optimized data persistence using **Hive** local storage for seamless offline capability.
+
+### 🚛 Factory Vehicle Tracker — Logistics Operations Management
+A business-oriented system tailored for manufacturing environments.
+* 🛠️ **Built with:** Flutter, Firebase Cloud Firestore, and Firebase Cloud Messaging (FCM).
+* ✔️ Created role-aware workflows and secure dashboards for gate operators and administrators.
+* ✔️ Automated real-time log verification and push notifications for vehicle movements.
 
 ---
 
-### 📊 ShiftWatch App
-Attendance tracking mobile system built with Flutter.
-
-✔ Employee attendance tracking  
-✔ Real-time updates  
-✔ Structured scalable architecture  
-
----
-
-## 📌 What I Focus On
-- Clean & scalable architecture
-- Real-world production-ready apps
-- API integration
-- State management with Bloc
+## 📌 Technical Focus
+* **Clean & Scalable Codebase:** Strictly separating layers (Data, Domain, Presentation).
+* **Production-Ready Standards:** Applying SOLID and dependency injection concepts.
+* **Performance Optimization:** Efficient local caching and memory management.
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=M-AboGamihe&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-AboGamihe&show_icons=true&theme=tokyonight" alt="Mahmoud's GitHub Stats" />
+</p>
 
 ---
 
-## 📫 Contact Me
-- Email: mahmoudabogama83@gmail.com  
-- LinkedIn: [your-linkedin-url ](https://www.linkedin.com/in/mahmoud-abogamihe/?skipRedirect=true) 
+## 📫 Contact & Connect
+* **Email:** mahmoudabogama83@gmail.com  
+* **LinkedIn:** [linkedin.com/in/mahmoud-abogamihe](https://www.linkedin.com/in/mahmoud-abogamihe/)
